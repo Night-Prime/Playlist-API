@@ -1,0 +1,110 @@
+{
+    "playlist": [
+      {
+        "id": 1,
+        "artist": "Drake",
+        "track": "Passionfruit",
+        "listened": true,
+        "favorites": false
+      },
+      {
+        "id": 2,
+        "artist": "Wizkid",
+        "track": "Sweet One",
+        "listened": true,
+        "favorites": true
+      },
+      {
+        "id": 3,
+        "artist": "Burna Boy",
+        "track": "23",
+        "listened": false,
+        "favorites": true
+      },
+      {
+        "id": 4,
+        "artist": "Kanye West",
+        "track": "Gold Digger",
+        "listened": false,
+        "favorites": false
+      },
+      {
+        "id": 5,
+        "artist": "JayZ",
+        "track": "The story of OJ",
+        "listened": true,
+        "favorites": true
+      },
+      {
+        "id": 6,
+        "artist": "Dave",
+        "track": "Psychodrama",
+        "listened": true,
+        "favorites": false
+      },
+      {
+        "id": 7,
+        "artist": "Frank Ocean",
+        "track": "Pink + White",
+        "listened": true,
+        "favorites": true
+      },
+      {
+        "id": 8,
+        "artist": "Bryson Tiller",
+        "track": "Right my Wrongs",
+        "listened": false,
+        "favorites": true
+      },
+      {
+        "id": 9,
+        "artist": "Childish Gambino",
+        "track": "Redbone",
+        "listened": true,
+        "favorites": true
+      },
+      {
+        "id": 10,
+        "artist": "Chris Brown",
+        "track": "Zero",
+        "listened": false,
+        "favorites": false
+      },
+      {
+        "id": 11,
+        "artist": "2Pac",
+        "track": "Do For Love",
+        "listened": true,
+        "favorites": false
+      },
+      {
+        "id": 12,
+        "artist": "Labrinth",
+        "track": "Forever",
+        "listened": false,
+        "favorites": true
+      },
+      {
+        "id": 13,
+        "artist": "Melvitto",
+        "track": "4 nothinb",
+        "listened": true,
+        "favorites": true
+      },
+      {
+        "id": 14,
+        "artist": "SALES",
+        "track": "Pope is a rockstar",
+        "listened": true,
+        "favorites": false
+      },
+      {
+        "id": 15,
+        "artist": "ASA",
+        "track": "Eye Adaba",
+        "listened": false,
+        "favorites": true
+      }
+    ]
+  }
+  
